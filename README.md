@@ -24,7 +24,9 @@ Detect Skin Diseases with help of AI.
 * 🚀 Contact best dermatologists recommended.
 ## Installation
 
-_______CURRENTLY ON OFFLINE SERVERS DUE TO DOMAIN ISSUES________
+_______CURRENTLY ON OFFLINE SERVERS DUE TO DOMAIN ISSUES_______
+
+HERE'S THE LINK TO ACCESS IT : https://mydermacare.netlify.app/
 
 ## Usage
 
